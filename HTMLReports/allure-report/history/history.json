@@ -1,0 +1,41 @@
+{
+  "3f67e2bf4c37d0eb361031ba3d82f2a7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "20c58dcc72cb76db",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"name\",\"selector\":\"userName\"}\n  (Session info: chrome=85.0.4183.102)\n  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.18362 x86_64)",
+      "time" : {
+        "start" : 1600600676482,
+        "stop" : 1600600676509,
+        "duration" : 27
+      }
+    } ]
+  },
+  "c165bc2105274afc9331c008bd6d417a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "55ccf7b9f34410d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600600643936,
+        "stop" : 1600600644083,
+        "duration" : 147
+      }
+    } ]
+  }
+}
