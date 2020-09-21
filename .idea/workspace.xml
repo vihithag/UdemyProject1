@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TestCases/test_TC1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+            <state relative-caret-position="225">
+              <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -60,11 +60,6 @@
               <item name="UdemyProject1" type="b2602c69:ProjectViewProjectNode" />
               <item name="UdemyProject1" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="UdemyProject1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UdemyProject1" type="462c0819:PsiDirectoryNode" />
-              <item name="Reports" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -98,6 +93,14 @@
       <option name="presentableId" value="Default" />
       <updated>1600597904976</updated>
     </task>
+    <task id="LOCAL-00001" summary="recreated the project again">
+      <created>1600605703993</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600605703993</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -122,6 +125,10 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="recreated the project again" />
+    <option name="LAST_COMMIT_MESSAGE" value="recreated the project again" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Libraries/Lib.bat">
       <provider selected="true" editor-type-id="text-editor">
@@ -132,8 +139,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestCases/test_TC1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        <state relative-caret-position="225">
+          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
