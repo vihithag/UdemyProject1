@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "PRINHYLTPDL1282",
+    "children" : [ {
+      "name" : "15404-MainThread",
+      "children" : [ {
+        "name" : "test_fail",
+        "uid" : "213a24fc25c18276",
+        "parentUid" : "f1924a43088fb4d358f890eb99c0baa2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600600643936,
+          "stop" : 1600600644083,
+          "duration" : 147
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pass",
+        "uid" : "1356f0e62f210169",
+        "parentUid" : "f1924a43088fb4d358f890eb99c0baa2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600600676482,
+          "stop" : 1600600676509,
+          "duration" : 27
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f1924a43088fb4d358f890eb99c0baa2"
+    } ],
+    "uid" : "685463d8587102202e42a4185d420c1b"
+  } ]
+}
